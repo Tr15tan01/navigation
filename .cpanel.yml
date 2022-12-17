@@ -1,6 +1,6 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/trismcsn/repositories/navigation
+    - export DEPLOYPATH=/home/trismcsn/repositories/navigation/
     - /bin/cp test.txt $DEPLOYPATH
     # - /bin/cp style.css $DEPLOYPATH
